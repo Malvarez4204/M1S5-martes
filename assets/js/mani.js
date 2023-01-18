@@ -20,3 +20,16 @@ console.log(nombre)
 // siempre se cierran con ; toda linea , aun que la linea brinda renglon
 // solo usar let / const para variables, var ya no se usa 
 
+let nombreCompleto = "MIguel Angel Alvarez Bautista"; //Tipo de texto string
+let telefono = 123; //number
+let humano = true; //boleano true o falso
+let direccion; //tipo null
+let codigoPostal = null;
+
+
+console.log("nombreCompleto", typeof nombreCompleto);
+console.log("telefono", typeof telefono);
+console.log("humano", typeof humano);
+console.log("direccion", typeof direccion);
+console.log("codigoPostal", typeof codigoPostal);
+
