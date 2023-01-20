@@ -15,4 +15,4 @@ console.log (concatenacion2);
 //string template en javascriopt
 console.log ("El conductor" + " " + driver + " " + "Tiene un" + " " + carName);
 
-let optimizacionConcatenacion = ´El conductor ${driver} tiene un ${carName}´';
+// let optimizacionConcatenacion = ´El conductor ${driver} tiene un ${carName}´';
